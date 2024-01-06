@@ -1,0 +1,1 @@
+In this foundational Information Systems (IS) analysis and design course, the class diagram comprises only class names and properties. Method details are excluded, with the understanding that they will be covered in the Advanced IS analysis and design course.
